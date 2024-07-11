@@ -1,0 +1,15 @@
+/venv
+./venv
+venv
+env
+*.pyc
+db.sqlite3
+.env
+db.sqlite3
+.__pycache__
+__pycache__
+devcontainer.json
+/pycache
+cf/cf/cf/__pycache__/
+.vscode
+.idea
